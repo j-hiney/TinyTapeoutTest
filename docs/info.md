@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This converts a binary input into hexadecimal, and uses that output to control the seven-segment LCD
 
 ## How to test
 
-Explain how to use your project
+Connect each input to a switch, and the outputs to the seven-segment display. Cycle through different binary numbers from 0-9 and check the corresponding output.
 
 ## External hardware
 
